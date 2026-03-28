@@ -1,6 +1,8 @@
 # Raffle Ticket Puller
 _These instructions assume almost no coding knowledge and the use of a Mac computer._
 
+First, download "raffle.py"!
+
 In order to work this script, you'll need Python on your computer: https://www.python.org/downloads/
 
 Then, you'll need to have a folder with your exported venmo statement and this script in it.
