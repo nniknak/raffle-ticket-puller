@@ -13,7 +13,7 @@ print("However, the program will attempt to handle some common issues, such nega
 input_file = input("Enter the name of the input CSV file (with .csv extension): ")
 output_file = "raffletickets.csv"
 winner_count = int(input("Enter the number of winners to pick: "))
-ticket_price = int(input("Enter the ticket price (in dollars): "))
+ticket_price = int(input("Enter the ticket price (as an integer): "))
 
 print("\n----------- Processing -------------\n")
 with open(input_file, newline="", encoding="utf-8") as infile:
