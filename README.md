@@ -14,5 +14,6 @@ Open the Terminal app on your computer (https://support.apple.com/guide/terminal
 Type "python3 raffle.py" and press enter.
 
 Input what the script asks (e.g. "venmo.csv") and press enter after each entry.
+- Personally, I think it's good practice to pull 10 or so extra winners beyond the number of prizes you have, in case some people don't respond. 
 
 The script will tell you what lines it is skipping in the venmo statement, and then it will tell you the winners. There will now be a csv file in the folder which will be the list of raffle tickets (with names and contacts repeated as many times as they've donated money for).
