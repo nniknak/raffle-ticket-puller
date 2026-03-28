@@ -9,7 +9,7 @@ Then, you'll need to have a folder with your exported venmo statement and this "
 
 Copy the relative path of that folder by right-clicking the folder and then holding the option key while the right-click menu is pulled up. This will reveal a menu option to "copy '[folder-name]' as Pathname"
 
-[Open the Terminal app]([url](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac)) on your computer and type "cd " and then paste the Pathname. Press enter.
+Open the Terminal app on your computer (https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac) and type "cd " and then paste the Pathname. Press enter.
 
 Type "python3 raffle.py" and press enter.
 
